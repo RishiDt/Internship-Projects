@@ -9,7 +9,7 @@ class HomePage extends StatelessWidget {
     // TODO: implement build
     return Scaffold(
       appBar: AppBar(
-        title: const Text("jwt_text_app"),
+        title: const Text("jwt_auth_app"),
       ),
       body: Container(
           height: double.infinity,
